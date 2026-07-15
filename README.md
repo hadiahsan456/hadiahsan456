@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./uofu-banner.jpg" alt="University of Utah campus" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:111111&height=190&section=header&text=University%20of%20Utah%20%7C%20Computer%20Science&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
