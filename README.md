@@ -8,7 +8,7 @@
 
 ### Software Engineer • Builder • Professional overthinker
 
-I’m a Computer Science student at the University of Utah with a passion for building thoughtful, useful software. I enjoy turning ideas into real projectsvfrom web experiences and tools to experiments that help me learn how technology works under the hood.
+I’m a Computer Science student at the University of Utah with a passion for building thoughtful, useful software. I enjoy turning ideas into real projects from web experiences and tools to experiments that help me learn how technology works under the hood.
 
 I’m always developing my skills through hands on projects, exploring new technologies, and looking for opportunities to create things that solve real problems. Feel free to check out my repositories to see what I’ve been building.
 
