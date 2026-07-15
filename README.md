@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:111111&height=190&section=header&text=University%20of%20Utah%20%7C%20Computer%20Science&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:111111&height=190&section=header&text=University%20of%20Utah%20%7C%20Computer%20Science&fontSize=30&fontColor=ffffff&fontAlign=46&desc=U&descSize=56&descAlign=91&descAlignY=50&animation=fadeIn" /> />
 </p>
 
 <div align="center">
