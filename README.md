@@ -24,10 +24,10 @@ I’m always developing my skills through hands on projects, exploring new techn
 
 ## About me
 
-- 🔭 Currently building: **something you’re excited about**
-- 🌱 Learning: **your current focus**
-- 💬 Ask me about: **your skills/interests**
-- ⚡ Fun fact: **something that sounds like you**
+- 🔭 Currently building: **AN APP THAT WILL KNOCK YOU OUT**
+- 🌱 Learning: **Computer Science**
+- 💬 Ask me about: **Coding, Cars and Cats**
+- ⚡ Fun fact: **I coded an ECU**
 
 ## Tech stack
 
@@ -35,20 +35,14 @@ I’m always developing my skills through hands on projects, exploring new techn
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,git,github,vscode,figma" />
 </p>
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ## Featured projects
 
 | Project | What it does |
 |---|---|
-| [**Project One**](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) | A quick, confident description of what you made. |
-| [**Project Two**](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) | What makes this project worth clicking into. |
-| [**Project Three**](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME) | Another project you’re proud of. |
+| [**Adventure Game**](https://github.com/hadiahsan456/Pygame-Adventure-Game)) | A multi-level adventure game built with Python and Pygame. |
+| [**Java GUI Image Editor**](https://github.com/hadiahsan456/Java-GUI-Image-Editor) | A Java-based image processing application with a graphical user interface.. |
+| [**EduPilot-AI **](https://github.com/hadiahsan456/EduPilot-AI) | In Progress: An AI-powered learning assistant that helps students study smarter with AI-generated summaries, quizzes, and document chat.. |
 
 <div align="center">
 
