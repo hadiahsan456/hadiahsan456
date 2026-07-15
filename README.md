@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./uofu-banner.jpg" alt="University of Utah campus" width="100%" />
+</p>
+
 <div align="center">
 
 # Hey, I’m Hadi Sarwar 👋
