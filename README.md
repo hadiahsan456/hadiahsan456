@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I’m YOUR NAME 👋
+# Hey, I’m Hadi Sarwar 👋
 
-### Developer • Builder • Professional overthinker
+### Software Engineer • Builder • Professional overthinker
 
 I build clean, useful things for the internet.
 
